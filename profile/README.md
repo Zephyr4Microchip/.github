@@ -1,1 +1,1 @@
-# [Welcome to Zephyr4Microchip
+# Welcome to Zephyr4Microchip
