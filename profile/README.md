@@ -16,6 +16,6 @@ See the [Getting Started Guide](https://github.com/Zephyr4Microchip/microchip-zs
 Here's a quick summary of resources to help you find your way around:
 - Microchip Zephyr Page : https://www.microchip.com/en-us/tools-resources/develop/zephyr
 - Microhip zSDK Releases : https://github.com/Zephyr4Microchip/microchip-zsdk/releases
-- Microchip zSDK Getting Started : https://github.com/Zephyr4Microchip/microchip-zsdk/blob/main/doc/Getting_Started_with_Microchip_zSDK.md
+- How to get started with Microchip zSDK : [Getting Started Guide] (https://github.com/Zephyr4Microchip/microchip-zsdk/blob/main/doc/Getting_Started_with_Microchip_zSDK.md)
 - Zephyr Project Documentation : https://docs.zephyrproject.org/
 - Zephyr Project Releases : https://github.com/zephyrproject-rtos/zephyr/releases
