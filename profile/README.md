@@ -13,4 +13,8 @@ See the [Getting Started Guide](https://github.com/Zephyr4Microchip/microchip-zs
 - [microchip-hal](https://github.com/Zephyr4Microchip/microchip-hal) - This is the downstream fork of hal_microchip with ATDF device packs and SoC pinctrl definitions. The major use-case for this repository is also the early device enablement.
   
 ## Resources
-- Microchip Zephyr Portal : https://www.microchip.com/en-us/tools-resources/develop/zephyr
+Here's a quick summary of resources to help you find your way around:
+
+- Microchip Zephyr Page : https://www.microchip.com/en-us/tools-resources/develop/zephyr
+- Zephyr Project Documentation : https://docs.zephyrproject.org/
+- Microhip zSDK Release : https://github.com/Zephyr4Microchip/microchip-zsdk/releases
